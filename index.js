@@ -1,1 +1,2 @@
-hi index
+index updated
+index deleted
